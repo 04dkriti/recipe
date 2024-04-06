@@ -1,7 +1,7 @@
 {
     "name": "Recipe",
     "description": "NFT Description",
-    "image": "image url",
+    "image": "https://www.google.com/imgres?q=epic%20packet&imgurl=https%3A%2F%2F5.imimg.com%2Fdata5%2FKW%2FMT%2FYO%2FSELLER-80635375%2Famul-epic-500x500.jpg&imgrefurl=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Famul-epic-choco-ice-cream-20600312312.html&docid=CP5DGa4B4zsH3M&tbnid=Bg0dWfgh2Dk6TM&vet=12ahUKEwj_8bfzka6FAxWlbWwGHR3uCMgQM3oECBYQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwj_8bfzka6FAxWlbWwGHR3uCMgQM3oECBYQAA",
     "attributes": [
         {
             "trait_type": "Trait Name",
